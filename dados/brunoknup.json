@@ -23,10 +23,19 @@
     }
   ],
   "apartments": [],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "expense_24a0940c-e9f4-43ca-a360-aa1ce0d15808",
+      "month": "2026-06",
+      "type": "Manutenção Extra",
+      "apartmentId": "",
+      "amount": 100,
+      "description": ""
+    }
+  ],
   "entries": [],
   "meta": {
-    "updatedAt": "2026-06-07T00:00:00.000Z",
+    "updatedAt": "2026-06-08T01:19:50.228Z",
     "updatedBy": "admin"
   }
 }
